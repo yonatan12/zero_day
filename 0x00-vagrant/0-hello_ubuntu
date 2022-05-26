@@ -1,1 +1,2 @@
-[Bprints just the kernel name
+#!/bin/bash
+echo "prints the kernel name"
